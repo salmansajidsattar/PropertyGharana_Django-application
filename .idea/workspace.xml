@@ -157,7 +157,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find />
+      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
       <find>sql</find>
       <find>sqlite</find>
       <find>charset</find>
@@ -337,7 +337,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32761577" />
