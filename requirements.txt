@@ -119,7 +119,6 @@ hvplot==0.8.1
 hyperframe==5.2.0
 hyperlink==19.0.0
 hyperopt==0.2.7
-idna==3.3
 idna-ssl==1.1.0
 ImageHash==4.0
 imageio==2.8.0
