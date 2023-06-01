@@ -9,3 +9,4 @@ django-dajaxice==0.7
 python-dotenv
 django-richtextfield
 django-multiforloop
+db-sqlite3
