@@ -157,7 +157,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
+      <find />
       <find>sql</find>
       <find>sqlite</find>
       <find>charset</find>
@@ -210,7 +210,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="1040" />
     <option name="height" value="688" />
