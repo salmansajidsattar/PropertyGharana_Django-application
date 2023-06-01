@@ -40,8 +40,8 @@
       <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="2619">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
@@ -49,7 +49,7 @@
       <file leaf-file-name="vercel.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vercel.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="702">
               <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
@@ -67,7 +67,7 @@
       <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PropertyGharana/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="378">
               <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
@@ -77,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="37">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -86,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -94,7 +94,7 @@
       <file leaf-file-name="details.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
+            <state relative-caret-position="7155">
               <caret line="265" column="46" selection-start-line="265" selection-start-column="46" selection-end-line="265" selection-end-column="46" />
             </state>
           </provider>
@@ -104,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/templates/Blog.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="77" />
+              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -112,7 +112,7 @@
       <file leaf-file-name="complete_blog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/complete_blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
+            <state relative-caret-position="5886">
               <caret line="218" column="45" selection-start-line="218" selection-start-column="45" selection-end-line="218" selection-end-column="45" />
             </state>
           </provider>
@@ -332,7 +332,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32761577" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.113464445" side_tool="true" weight="0.43053174" />
@@ -340,9 +340,8 @@
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.88729197" weight="0.5626072" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" weight="0.42367068" />
-      <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.4871355" />
       <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" visible="true" weight="0.7238422" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
@@ -351,11 +350,12 @@
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.4871355" />
+      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="0" weight="0.32933104" />
     </layout>
   </component>
@@ -427,9 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,9 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,9 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1512">
           <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#86#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -617,7 +608,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
+        <state relative-caret-position="7155">
           <caret line="265" column="46" selection-start-line="265" selection-start-column="46" selection-end-line="265" selection-end-column="46" />
         </state>
       </provider>
@@ -625,13 +616,13 @@
     <entry file="file://$PROJECT_DIR$/templates/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/complete_blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
+        <state relative-caret-position="5886">
           <caret line="218" column="45" selection-start-line="218" selection-start-column="45" selection-end-line="218" selection-end-column="45" />
         </state>
       </provider>
@@ -639,20 +630,20 @@
     <entry file="file://$PROJECT_DIR$/templates/Blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="77" />
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="2619">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vercel.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="702">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
@@ -666,7 +657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PropertyGharana/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="378">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
@@ -674,7 +665,7 @@
     <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
