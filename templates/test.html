@@ -1,0 +1,49 @@
+{% load staticfiles %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{%for i in final %}
+<li>
+              <div class="blog-card">
+                <figure class="card-banner">
+                  <img src="{{single_return}}" alt={{i.title}} class="w-100">
+                </figure>
+                <div class="blog-content">
+                  <div class="blog-content-top">
+                    <ul class="card-meta-list">
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="person"></ion-icon>
+                          <span>by: {{i.Posted_by}}</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="#" class="card-meta-link">
+                          <ion-icon name="pricetags"></ion-icon>
+                          <span>{{ i.category }}</span>
+                        </a>
+                      </li>
+                    </ul>
+                    <h3 class="h3 blog-title">
+                      <a href="#">{{i.title}}</a>
+                    </h3>
+                  </div>
+                  <div class="blog-content-bottom">
+                    <div class="publish-date">
+                      <ion-icon name="calendar"></ion-icon>
+                      <time datetime="2022-27-04">Apr 27, 2022</time>
+                    </div>
+
+                    <a href="#" class="read-more-btn">Read More</a>
+                  </div>
+                </div>
+              </div>
+            </li>
+{% endfor %}
+</body>
+</html>
