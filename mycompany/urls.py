@@ -19,4 +19,5 @@ urlpatterns = [
     path('single_return/complete_blog',views.completeblog),
     path('single_return/details',views.redirect_detail),
 ]
+
 handler404 = "mycompany.views.page_not_found_view"
