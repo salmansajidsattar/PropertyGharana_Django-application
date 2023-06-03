@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/PropertyGharana/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PropertyGharana/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build_files.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_files.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,16 +35,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="vercel.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vercel.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vercel.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            <state relative-caret-position="54">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build_files.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build_files.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build_files.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
@@ -201,10 +202,10 @@
         <option value="$PROJECT_DIR$/PropertyGharana/wsgi.py" />
         <option value="$PROJECT_DIR$/mycompany/urls.py" />
         <option value="$PROJECT_DIR$/PropertyGharana/urls.py" />
-        <option value="$PROJECT_DIR$/vercel.json" />
         <option value="$PROJECT_DIR$/PropertyGharana/settings.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/build_files.sh" />
+        <option value="$PROJECT_DIR$/vercel.json" />
       </list>
     </option>
   </component>
@@ -611,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vercel.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mycompany/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
@@ -669,6 +663,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vercel.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
