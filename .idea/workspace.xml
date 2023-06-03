@@ -51,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
+            <state relative-caret-position="200">
               <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
             </state>
           </provider>
@@ -72,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+            <state relative-caret-position="208">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -161,7 +161,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find />
+      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
       <find>sql</find>
       <find>charset</find>
       <find>sqlite</find>
@@ -329,16 +329,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32761577" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.113464445" side_tool="true" weight="0.43053174" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.88729197" weight="0.5626072" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" weight="0.42367068" />
-      <window_info active="true" anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" visible="true" weight="0.80617493" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" weight="0.20240137" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" visible="true" weight="0.42367068" />
+      <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.80617493" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" weight="0.380789" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
@@ -656,17 +657,17 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+        <state relative-caret-position="208">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+        <state relative-caret-position="200">
+          <caret line="59" column="8" lean-forward="true" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
         </state>
       </provider>
     </entry>
