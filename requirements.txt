@@ -1,4 +1,4 @@
-psycopg2
+psycopg2-binary
 beautifulsoup4==4.9.0
 dj-database-url==0.5.0
 dj-static==0.0.6

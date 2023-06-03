@@ -161,7 +161,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
+      <find />
       <find>sql</find>
       <find>charset</find>
       <find>sqlite</find>
