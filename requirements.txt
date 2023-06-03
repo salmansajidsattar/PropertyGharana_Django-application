@@ -1,3 +1,4 @@
+psycopg2
 beautifulsoup4==4.9.0
 dj-database-url==0.5.0
 dj-static==0.0.6
@@ -57,4 +58,3 @@ numpydoc==0.8.0
 python-dotenv==0.20.0
 sqlitedict==2.0.0
 sqlparse==0.3.0
-psycopg2
