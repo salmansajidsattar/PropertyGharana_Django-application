@@ -70,8 +70,8 @@
       <file leaf-file-name=".env" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="54">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -155,7 +155,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
+      <find />
       <find>sql</find>
       <find>charset</find>
       <find>sqlite</find>
@@ -323,7 +323,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32761577" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.113464445" side_tool="true" weight="0.43053174" />
@@ -331,8 +331,8 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.88729197" weight="0.5626072" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" weight="0.33962265" />
-      <window_info active="true" anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" visible="true" weight="0.48885077" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" weight="0.6586621" />
+      <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.48885077" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" visible="true" weight="0.49228132" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
@@ -660,8 +660,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="54">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
