@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73e6bc3-a41b-4d70-8f3b-bb092eca1504" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PropertyGharana/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PropertyGharana/settings.py" afterDir="false" />
     </list>
@@ -58,23 +59,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PropertyGharana/urls.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="35" column="78" selection-start-line="35" selection-start-column="78" selection-end-line="35" selection-end-column="78" />
-              <folding>
-                <element signature="e#639#671#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="312">
+              <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="95" column="3" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="3" />
+            <state relative-caret-position="74">
+              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -135,7 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>home</find>
       <find>areaA</find>
       <find>blo</find>
       <find>static</find>
@@ -165,6 +162,7 @@
       <find>sqlite</find>
       <find>m</find>
       <find>data</find>
+      <find>USE_TZ</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -185,7 +183,6 @@
         <option value="$PROJECT_DIR$/mycompany/models.py" />
         <option value="$PROJECT_DIR$/mycompany/admin.py" />
         <option value="$PROJECT_DIR$/static/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/templates/404.html" />
         <option value="$PROJECT_DIR$/static/style.css" />
         <option value="$PROJECT_DIR$/static/js/script.js" />
@@ -202,6 +199,7 @@
         <option value="$PROJECT_DIR$/vercel.json" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/PropertyGharana/settings.py" />
+        <option value="$PROJECT_DIR$/.env" />
       </list>
     </option>
   </component>
@@ -334,9 +332,9 @@
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.88729197" weight="0.5626072" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" weight="0.42367068" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.8865355" visible="true" weight="0.28987992" />
       <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.48885077" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" visible="true" weight="0.380789" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" weight="0.6586621" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
@@ -464,13 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="65" selection-start-column="65" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -662,10 +653,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="95" column="3" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="3" />
+        <state relative-caret-position="312">
+          <caret line="88" column="1" lean-forward="true" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
         </state>
       </provider>
     </entry>
