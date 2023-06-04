@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73e6bc3-a41b-4d70-8f3b-bb092eca1504" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PropertyGharana/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PropertyGharana/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_files.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_files.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/vercel.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,8 +73,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="62">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -163,7 +159,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
+      <find />
       <find>sql</find>
       <find>charset</find>
       <find>sqlite</find>
@@ -218,7 +214,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="width" value="1040" />
     <option name="height" value="688" />
@@ -338,10 +334,10 @@
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.88729197" weight="0.5626072" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" visible="true" weight="0.42367068" />
-      <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.80617493" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" weight="0.380789" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.8865355" weight="0.42367068" />
+      <window_info anchor="bottom" id="manage.py@PropertyGharana" order="14" sideWeight="0.82375187" weight="0.48885077" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.4955357" visible="true" weight="0.380789" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10438729" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32980332" />
@@ -668,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="62">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>

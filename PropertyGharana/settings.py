@@ -80,11 +80,11 @@ DJRICHTEXTFIELD_CONFIG = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'test',
+        'NAME': 'postgres',
         'USER': 'postgres',
-        'PASSWORD': '0300',
-        'HOST': 'localhost',
-        'PORT': '5433',
+        'PASSWORD': 'zhpnwPDc7loPUHND',
+        'HOST': 'db.ejcppczvceqcigovpsjv.supabase.co',
+        'PORT': '5432',
     }
 }
 
