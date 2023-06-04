@@ -73,8 +73,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="95">
+              <caret line="95" column="3" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -159,7 +159,7 @@
       <find>#about</find>
       <find>window.onscroll</find>
       <find>image-110x110.png</find>
-      <find />
+      <find>&lt;div class=&quot;footer-brand&quot;&gt;</find>
       <find>sql</find>
       <find>charset</find>
       <find>sqlite</find>
@@ -214,7 +214,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="1040" />
     <option name="height" value="688" />
@@ -664,8 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PropertyGharana/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="95">
+          <caret line="95" column="3" selection-start-line="95" selection-start-column="1" selection-end-line="95" selection-end-column="3" />
         </state>
       </provider>
     </entry>
