@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': str(os.getenv('NAME')),
         'USER': str(os.getenv('USER')),
         'PASSWORD': str(os.getenv('PASSWORD')),
-        'HOST': str(os.getenv('HOST')),
+        'HOST': "db.azcpshzwzrvfdqweyfaa.supabase.co",
         'PORT': '5432',
     }
 }
