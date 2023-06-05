@@ -3,6 +3,13 @@
 <html lang="en">
 
 <head>
+    <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hf2ycejlsg");
+</script>
   <link rel="shortcut icon" type="image/x-icon" href="{% static 'favicon.svg' %}" />
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -199,13 +206,13 @@ s0.parentNode.insertBefore(s1,s0);
 
 {###############################}
       <section id="home">
-           <div class="areaA">
+           <div class="container" class="areaA">
                <p class="h1" style="padding-left: 70px">{{ blog.title }}</p>
                <br>
                <br>
                     {{ blog.content|safe}}
             </div>
-          <div class="areaB">
+          <div class="container" class="areaB">
           </div>
       </section>
 {###############################}
